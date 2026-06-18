@@ -1,35 +1,93 @@
-## Grupo A/B - Equipo {numero}
-_Curso de Programación Asistida con IA - Chicas en Tecnología_ 🚀
+# 🎓 Orienta — Test Vocacional
 
-```⚠️ Dejar la opción correcta entre Grupo A (Grupo de 17 a 19hs) y Grupo B (Grupo de 19 a 21hs) y agregar el número de equipo ⚠️```
+> Ayudando a jóvenes a encontrar su camino desde 2025.
 
-En este repositorio, se presenta el sitio web realizado durante el curso de programación frontend de CET.
+---
 
-### 📄 Entregas
-**Entrega #1**: planificación de la solución y primeros resultados que obtengamos con la IA:
+## 📋 Descripción del proyecto
 
-📝 Edición del Archivo README incluyendo:
-- Definición de la problemática que eligieron abordar
-- Relación con los *Objetivos de Desarrollo Sostenible (ODS)*[^1]
-- Explicación de la solución tecnológica que están desarrollando
-> [!TIP]
-> Aprovechen los [formatos del README](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para escribir diferentes secciones
+**Orienta** es una plataforma web gratuita que ayuda a estudiantes secundarios y jóvenes a descubrir qué carrera universitaria se adapta mejor a sus intereses, habilidades y estilo de vida, a través de un test vocacional interactivo.
 
-🎨 Moodboard
+---
 
-🧩 Archivos generados con asistencia de IA: ```index.html```, ```style.css```, ```script.js```
+## ❓ Problemática que abordamos
 
+Muchos adolescentes llegan al final del secundario sin saber qué estudiar. La falta de orientación vocacional clara genera:
 
-**Entrega #2 (Final)**: se esperan modificaciones en el código respecto a la entrega anterior, que pueden incluir nuevos archivos o extensión de los existentes (debe haber al menos un archivo de cada lenguaje visto - HTML, CSS y Javascript)
+- Incertidumbre y ansiedad frente a la elección de carrera.
+- Abandono universitario por elegir una carrera que no era la indicada.
+- Jóvenes que quedan "estancados" sin animarse a comenzar una carrera.
 
-💡 Es una buena idea llevar un registro de lo que cambiamos. Por ejemplo
+> "Estar por terminar el colegio y no saber qué estudiar es una experiencia muy común — y muy solitaria."
+
+---
+
+## 🌍 Relación con los Objetivos de Desarrollo Sostenible (ODS)
+
+Este proyecto se enmarca principalmente en:
+
+| ODS | Descripción |
+|-----|-------------|
+| **ODS 4 — Educación de calidad** | Brindamos orientación educativa gratuita y accesible para que más jóvenes puedan tomar decisiones informadas sobre su futuro académico. |
+| **ODS 10 — Reducción de las desigualdades** | Al ser 100% gratuita, la herramienta democratiza el acceso a la orientación vocacional, que muchas veces solo está disponible en colegios privados o con costo. |
+| **ODS 8 — Trabajo decente y crecimiento económico** | Ayudamos a los jóvenes a conectar con carreras y oportunidades laborales que se alineen con sus fortalezas. |
+
+---
+
+## 💡 Solución tecnológica
+
+**Orienta** es un sitio web *one-page* desarrollado con HTML, CSS y JavaScript puro, sin necesidad de registro ni instalación. La solución incluye:
+
+### ✅ Funcionalidades clave
+
+- **Test vocacional interactivo** — 20 preguntas sobre gustos, habilidades y estilo de vida. Al finalizar, el sistema calcula un perfil de afinidad por áreas (Salud, Tecnología, Arte, Ciencias, Humanidades, Negocios, Ingeniería) y recomienda carreras personalizadas.
+
+- **Explorador de carreras** — Más de 50 carreras con descripción detallada, duración, materias principales, habilidades requeridas y salidas laborales. Filtrable por área de interés.
+
+- **Directorio de universidades** — Instituciones destacadas de América Latina con links directos a sus sitios oficiales, buscable por nombre, país o carrera.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **HTML5** — estructura semántica del sitio
+- **CSS3** — diseño responsivo con variables de color, animaciones y layout con Grid y Flexbox
+- **JavaScript (Vanilla)** — lógica del test, cálculo de resultados, filtros y búsqueda dinámica
+
+---
+
+## 👥 Público objetivo
+
+- Adolescentes cursando los últimos años del secundario
+- Jóvenes que ya terminaron el secundario pero aún no eligieron carrera
+- Estudiantes que comenzaron una carrera y están pensando en cambiar
+
+---
+
+## 📁 Estructura del proyecto
+
 ```
-- Agregamos Bootstrap para el carrousel de imágenes...
-- Modificamos el texto de la sección de bienvenida...
-- Transformamos los textos sobre redes sociales en links...
+proyecto/
+├── index.html       # Estructura principal del sitio
+├── style.css        # Estilos y diseño visual
+└── script.js        # Lógica del test y contenido dinámico
 ```
 
-Ahora si, ¡A programar! 🚀
+---
 
+## 🚀 Cómo usar el proyecto
 
-[^1]: Los Objetivos de Desarrollo Sostenible u Objetivos Globales, también conocidos como Agenda 2030, son 17 objetivos globales interconectados diseñados para ser un «plan para lograr un futuro mejor y más sostenible para todos». Más información en https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
+1. Clonar o descargar el repositorio
+2. Abrir `index.html` en cualquier navegador
+3. ¡Listo! No requiere servidor ni dependencias externas
+
+---
+
+## 👩‍💻 Equipo
+
+**Grupo 11 — Área Educación**
+Proyecto desarrollado en el marco del programa **Chicas en Tecnología (CET) — Programación Asistida con IA 2026**
+
+---
+
+*Hecho con ♥ para estudiantes de toda América Latina.*
