@@ -1,0 +1,147 @@
+<html lang="es"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>orienta.</title>
+</head>
+<body>
+  <header>
+    <a id="_page0_x6.00_y90.00"></a>
+    <h1><a href="#_page0_x6.00_y90.00">orienta.</a></h1>
+    <img src="Aspose.Words.7d96f18b-bcdc-40b5-a529-2d236b2b28b1.001.png" alt="">
+
+    <nav>
+      <ul>
+        <li><a href="#_page1_x6.00_y180.00">Test Vocacional</a></li>
+        <li><a href="#_page1_x6.00_y468.75">Carreras</a></li>
+        <li><a href="#_page2_x6.00_y98.25">Universidades</a></li>
+        <li><a href="#_page1_x6.00_y180.00">Comenzar test</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <p>Para estudiantes de secundaria</p>
+
+      <h2>¿Y ahora<br>qué carrera<br>elijo?</h2>
+
+      <p>Descubre qué profesión conecta con quien eres — intereses,<br>habilidades y sueños incluidos. El test tarda menos de 10<br>minutos.</p>
+
+      <p>
+        <a href="#_page1_x6.00_y180.00">Hacer el test gratuito</a>
+        <a href="#_page1_x6.00_y468.75">Ver carreras →</a>
+      </p>
+
+      <dl>
+        <dt>50+</dt>
+        <dd>Carreras analizadas</dd>
+        <dt>20</dt>
+        <dd>Preguntas clave</dd>
+        <dt>100%</dt>
+        <dd>Gratuito</dd>
+      </dl>
+
+      <ul>
+        <li>🎨Diseño y Arte</li>
+        <li>💻Tecnología</li>
+        <li>🔬Ciencias</li>
+        <li>⚖ Derecho</li>
+        <li>❤ Salud</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Así funciona</h2>
+
+      <article>
+        <h3>01</h3>
+        <h4>Responde el test</h4>
+        <p>20 preguntas sobre tus gustos, habilidades y estilo de vida. Sin<br>respuestas correctas o incorrectas.</p>
+      </article>
+
+      <article>
+        <h3>02</h3>
+        <a id="_page1_x6.00_y180.00"></a>
+        <h4>Recibe tu perfil</h4>
+        <p>El sistema identifica tus áreas de afinidad y calcula las carreras<br>que mejor se ajustan a ti.</p>
+      </article>
+
+      <article>
+        <h3>03</h3>
+        <h4>Explora opciones</h4>
+        <p>Conoce detalles de cada carrera: duración, materias, salidas<br>laborales y universidades donde estudiarla. Test Vocacional</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Conoce tu perfil<br>en 10 minutos</h2>
+      <p>Responde con sinceridad. No hay respuestas buenas ni malas —<br>solo las tuyas.</p>
+      <p>Comenzar ahora →<img src="Aspose.Words.7d96f18b-bcdc-40b5-a529-2d236b2b28b1.002.png" alt=""></p>
+    </section>
+
+    <section>
+      <a id="_page1_x6.00_y468.75"></a>
+      <h2>Pregunta 1 de 20</h2>
+      <p>← Anterior Siguiente →<img src="Aspose.Words.7d96f18b-bcdc-40b5-a529-2d236b2b28b1.003.png" alt=""></p>
+    </section>
+
+    <section>
+      <h2>Tus resultados</h2>
+      <p>Tu perfil es...</p>
+      <p>Carreras recomendadas para ti</p>
+      <p>Repetir el test<img src="Aspose.Words.7d96f18b-bcdc-40b5-a529-2d236b2b28b1.004.png" alt=""></p>
+      <p>✕</p>
+    </section>
+
+    <section>
+      <h2>Explora sin límites</h2>
+
+      <a id="_page2_x6.00_y98.25"></a>
+      <h3>Todas las carreras</h3>
+      <p>Filtra por área de interés y descubre qué estudiar, cuánto dura y<br>qué oportunidades te espera.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Todas</th>
+            <th>Tecnología</th>
+            <th>Salud</th>
+          </tr>
+        </thead>
+      </table>
+
+      <p>Arte y Diseño Ciencias<img src="Aspose.Words.7d96f18b-bcdc-40b5-a529-2d236b2b28b1.005.png" alt=""></p>
+      <p>Ciencias Sociales Negocios</p>
+    </section>
+
+    <section>
+      <h2>Encuentra tu casa de estudios</h2>
+      <h3>Universidades destacadas</h3>
+      <p>Instituciones de América Latina con excelencia académica. Busca<br>por nombre o país.</p>
+      <p>Buscar universidad o país…<img src="Aspose.Words.7d96f18b-bcdc-40b5-a529-2d236b2b28b1.006.png" alt=""></p>
+    </section>
+  </main>
+
+  <footer>
+    <h2>orienta.</h2>
+    <p>Ayudando a jóvenes a encontrar su camino desde 2025.</p>
+
+    <h3>Explora</h3>
+    <p>
+      <a href="#_page1_x6.00_y180.00">Test vocacional</a>
+      <a href="#_page1_x6.00_y468.75">Carreras</a>
+      <a href="#_page2_x6.00_y98.25">Universidades</a>
+    </p>
+
+    <h3>Áreas</h3>
+    <p>
+      <a href="#_page1_x6.00_y468.75">Tecnología</a>
+      <a href="#_page1_x6.00_y468.75">Salud</a>
+      <a href="#_page1_x6.00_y468.75">Arte &amp; Diseño</a>
+    </p>
+
+    <p>© 2025 Orienta. Hecho con ♥ para estudiantes.</p>
+  </footer>
+
+
+</body></html>
